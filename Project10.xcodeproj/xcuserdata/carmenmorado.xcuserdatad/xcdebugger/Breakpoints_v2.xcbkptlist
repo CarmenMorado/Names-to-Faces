@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3CDDC092-DE3E-4CF3-9DCF-A567515A91AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B580CDF-4EEA-492F-B44B-20387E335BCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project10/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A9AA454-0F67-4E74-89F0-2033F180A2A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project10/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project10/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - 710326cc9ca43e88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.__deallocating_deinit"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - 3b34f8ff0730ff57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.__allocating_init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; Project10.ViewController"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - b74ee3500af400f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; Project10.ViewController"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - 14153734737ed0dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Project10.ViewController"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - 64234bca2e9225bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Project10.ViewController"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - ad976bc5b0871698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Project10.ViewController&gt;"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EC2F8928-943C-4C77-851E-2BB5DE4FF8DD - aa94916c7d6bb1f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project10.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Project10.ViewController&gt;"
+                  moduleName = "Project10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carmenmorado/Desktop/Project10/Project10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
